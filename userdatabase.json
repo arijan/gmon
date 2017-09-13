@@ -1,0 +1,12 @@
+{
+    "mateja": {
+        "admin": true,
+        "salt": "3659643177983321522032314715954686708040",
+        "sha512": "b0fe653031a5be14448eab1f471992ede71e4057ad7b60f5ba97672707b267108ece1cba2b30b529c83abb7bfc7d8a52fdc656d5b411e47ee12ea3b6034b42c6"
+    },
+    "arijan": {
+        "salt": "842485207827416521407975721783411969836",
+        "admin": true,
+        "sha512": "8b570d3105ed54ef431c73eed364df3ed9784c77f78172ce42d777a0b92ff0d4a0cefb1dcbf590e4ab518e6a62cbba9051cfcc03c73de8012970e5c93554394d"
+    }
+}
