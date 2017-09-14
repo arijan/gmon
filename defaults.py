@@ -226,33 +226,22 @@ def createsimpletable(collectionofdicts, fields, representation, cls=None, id=No
         with tag.tbody():
             with tag.tr():
                 tag.th(tag.p(
-                    tag.button('↶\n•', type='button', cls='tablebutton', onClick=unhideall)) if headerbuttons else '')
+                    tag.button('↶•', type='button', cls='tablebutton', onClick=unhideall)) if headerbuttons else '')
 
-                for i, f in enumerate(representation):
+                for i, (f, r) in enumerate(zip(fields, representation)):
                     index = i + 1
 
-                    if type(f) is str:
-                        if len(f) == 0:
-                            tag.th('')
-                        elif f[-1] == '.' or headerbuttons == False:
-                            tag.th(f)
-                        else:
-                            tag.th(f, tag.p(
-                                tag.button('•', type='button', cls='tablebutton', column=index, onClick=hidecolumn),
-                                tag.button('⇵', type='button', cls='tablebutton', column=index, onClick=sortbycolumn),
-                                tag.input(placeholder='filter', cls='tablefilter', column=index, onkeyup=filterbycolumn,
-                                          value=''),
-                                cls='tablebuttons'))
-                    elif type(f) is escapetag:
-                        if headerbuttons:
-                            tag.th(f(), tag.p(
-                                tag.button('•', type='button', cls='tablebutton', column=index, onClick=hidecolumn),
-                                tag.button('⇵', type='button', cls='tablebutton', column=index, onClick=sortbycolumn),
-                                tag.input(placeholder='filter', cls='tablefilter', column=index, onkeyup=filterbycolumn,
-                                          value=''),
-                                cls='tablebuttons'))
-                        else:
-                            tag.th(f())
+                    if len(r) == 0:
+                        tag.th('')
+                    elif r[-1] == '.' or headerbuttons == False:
+                        tag.th(r)
+                    else:
+                        tag.th(r, tag.p(
+                            tag.button('•', type='button', cls='tablebutton', column=index, onClick=hidecolumn),
+                            tag.button('⇵', type='button', cls='tablebutton', column=index, onClick=sortbycolumn),
+                            tag.input(placeholder='filter', cls='tablefilter', column=index, onkeyup=filterbycolumn,
+                                      value=''),
+                            cls='tablebuttons'), cls='simpletable_' + str(f))
 
 
             for r in collectionofdicts if type(collectionofdicts) is list else collectionofdicts.values():

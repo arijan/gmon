@@ -56,13 +56,12 @@ def getgraph(x):
         vmax = max([x[0] if x[0] else 0 for x in result['data']])
         vmin = min([x[0] if x[0] else vmax for x in result['data']])
         vdiff = vmax - vmin
+
         if vdiff == 0:
             vdiff = 1
-        rrddata = [x[0] if x[0] else vmin for x in result['data']]
 
-        print([round((x - vmin) * barcharslen / vdiff) for x in rrddata])
+        rrddata = [x[0] if x[0] else vmin for x in result['data']]
         retval = ''.join([barchars[round((x - vmin) * barcharslen / vdiff)] for x in rrddata])
-        print(retval, len(retval))
     except:
         print(result)
 
