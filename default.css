@@ -1,5 +1,5 @@
 * {
-	font-family: Sans-Serif;
+	font-family: sans-serif;
 }
 
 h1, h2, h3, .break {
@@ -38,7 +38,6 @@ button, input[type=submit] {
 }
 
 .tablebutton {
-	width: 1.5em;
 }
 
 button:active, input:active {
@@ -52,11 +51,15 @@ button:hover, input:hover {
 .tablebuttons {
 	padding: 0px;
 	margin: 0px;
-	width: 3.5em;
 }
 
 .tablefilter {
   width: 4.1em;
   color: red;
   font-weight: bold;
+}
+
+.simpletable_Graph {
+  font-family: serif;
+  font-size: 50%;
 }

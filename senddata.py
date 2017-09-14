@@ -60,6 +60,7 @@ hostname = gethostname()
 macaddr, ipaddr = getipaddress()
 print('Monitoring host {} with mac {} and ip {}'.format(hostname, macaddr, ipaddr))
 print('Uptime {}'.format(getuptime()))
+t2 = t1 = int(time.time())
 
 with subprocess.Popen(['cat', 'testdata.txt'], stdout=subprocess.PIPE) as proc:
     for line in proc.stdout:
@@ -67,13 +68,17 @@ with subprocess.Popen(['cat', 'testdata.txt'], stdout=subprocess.PIPE) as proc:
 
         if fields[2] == 'm':
             hashr = int(float(fields[10].rstrip('MH/s')))
-            print('Hashrate {}, sending:'.format(hashr), end='')
+            t2 = int(time.time())
+            print('dT {}, Hashrate {}, sending:'.format(t2 - t1, hashr), end='')
+            t1 = t2
 
             try:
-                result = requests.post('http://localhost:8081', data=dict(Host=hostname, IP=ipaddr, MAC=macaddr, Uptime=getuptime(), Hashrate=hashr, Temp='', Lastseen=int(time.time())))
+                result = requests.post('http://localhost:8081', data=dict(Host=hostname, IP=ipaddr,
+                                        MAC=macaddr, Uptime=getuptime(), Hashrate=hashr, Temp='',
+                                        Lastseen=int(time.time())))
             except:
                 pass
 
             print(result.reason)
 
-        time.sleep(.1)
+        time.sleep(5)

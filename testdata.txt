@@ -59,3 +59,2382 @@
   ℹ  07:41:24|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
   ℹ  07:41:24|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
   m  07:41:24|ethminer  Mining on #e7487804… : 105.04MH/s [A114+1:R0+0:F0]
+    ℹ  07:40:23|CUDA1     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:23|CUDA1       Nonce: 0xc8d1b16d1efa13e2
+  ℹ  07:40:23|stratum   B-) Submitted and accepted.
+  m  07:40:24|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:26|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:28|ethminer  Mining on #a1ec8d34… : 111.67MH/s [A49+0:R0+0:F0]
+  m  07:40:30|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:32|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  m  07:40:34|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A49+0:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  ℹ  07:40:39|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:39|CUDA0       Nonce: 0x87eee565e19f324a
+  ℹ  07:40:39|stratum   B-) Submitted and accepted.
+  m  07:40:40|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A50+0:R0+0:F0]
+  ℹ  07:40:41|CUDA5     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:41|CUDA5       Nonce: 0x456689d413240fef
+  ℹ  07:40:41|stratum   B-) Submitted and accepted.
+  m  07:40:42|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A51+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:40|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:42|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:40:44|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:46|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:48|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:50|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:52|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:54|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:56|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:58|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:00|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:02|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:04|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:06|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  ℹ  07:41:07|stratum   Received new job #818c
+  ℹ  07:41:07|CUDA2     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:07|CUDA2       Nonce: 0xaa01293ef924d0dc
+  ℹ  07:41:07|stratum   B-) Submitted and accepted.
+  m  07:41:08|ethminer  Mining on #b4afffde… : 112.20MH/s [A123+2:R0+0:F0]
+  ℹ  07:41:17|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:17|CUDA0       Nonce: 0x1f747a7038053e3e
+  ℹ  07:41:17|stratum   B-) Submitted and accepted.
+  m  07:41:18|ethminer  Mining on #bd209422… : 111.67MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:20|stratum   Received new job #81a4
+  ℹ  07:41:20|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:20|ethminer  Mining on #b481230c… : 105.74MH/s [A114+1:R0+0:F0]
+  m  07:41:22|ethminer  Mining on #b481230c… : 111.15MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:24|stratum   Received new job #81a5
+  ℹ  07:41:24|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:24|ethminer  Mining on #e7487804… : 105.04MH/s [A114+1:R0+0:F0]
+    ℹ  07:40:23|CUDA1     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:23|CUDA1       Nonce: 0xc8d1b16d1efa13e2
+  ℹ  07:40:23|stratum   B-) Submitted and accepted.
+  m  07:40:24|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:26|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:28|ethminer  Mining on #a1ec8d34… : 111.67MH/s [A49+0:R0+0:F0]
+  m  07:40:30|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:32|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  m  07:40:34|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A49+0:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  ℹ  07:40:39|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:39|CUDA0       Nonce: 0x87eee565e19f324a
+  ℹ  07:40:39|stratum   B-) Submitted and accepted.
+  m  07:40:40|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A50+0:R0+0:F0]
+  ℹ  07:40:41|CUDA5     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:41|CUDA5       Nonce: 0x456689d413240fef
+  ℹ  07:40:41|stratum   B-) Submitted and accepted.
+  m  07:40:42|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A51+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:40|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:42|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:40:44|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:46|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:48|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:50|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:52|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:54|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:56|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:58|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:00|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:02|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:04|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:06|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  ℹ  07:41:07|stratum   Received new job #818c
+  ℹ  07:41:07|CUDA2     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:07|CUDA2       Nonce: 0xaa01293ef924d0dc
+  ℹ  07:41:07|stratum   B-) Submitted and accepted.
+  m  07:41:08|ethminer  Mining on #b4afffde… : 112.20MH/s [A123+2:R0+0:F0]
+  ℹ  07:41:17|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:17|CUDA0       Nonce: 0x1f747a7038053e3e
+  ℹ  07:41:17|stratum   B-) Submitted and accepted.
+  m  07:41:18|ethminer  Mining on #bd209422… : 111.67MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:20|stratum   Received new job #81a4
+  ℹ  07:41:20|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:20|ethminer  Mining on #b481230c… : 105.74MH/s [A114+1:R0+0:F0]
+  m  07:41:22|ethminer  Mining on #b481230c… : 111.15MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:24|stratum   Received new job #81a5
+  ℹ  07:41:24|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:24|ethminer  Mining on #e7487804… : 105.04MH/s [A114+1:R0+0:F0]
+    ℹ  07:40:23|CUDA1     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:23|CUDA1       Nonce: 0xc8d1b16d1efa13e2
+  ℹ  07:40:23|stratum   B-) Submitted and accepted.
+  m  07:40:24|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:26|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:28|ethminer  Mining on #a1ec8d34… : 111.67MH/s [A49+0:R0+0:F0]
+  m  07:40:30|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:32|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  m  07:40:34|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A49+0:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  ℹ  07:40:39|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:39|CUDA0       Nonce: 0x87eee565e19f324a
+  ℹ  07:40:39|stratum   B-) Submitted and accepted.
+  m  07:40:40|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A50+0:R0+0:F0]
+  ℹ  07:40:41|CUDA5     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:41|CUDA5       Nonce: 0x456689d413240fef
+  ℹ  07:40:41|stratum   B-) Submitted and accepted.
+  m  07:40:42|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A51+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:40|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:42|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:40:44|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:46|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:48|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:50|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:52|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:54|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:56|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:58|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:00|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:02|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:04|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:06|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  ℹ  07:41:07|stratum   Received new job #818c
+  ℹ  07:41:07|CUDA2     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:07|CUDA2       Nonce: 0xaa01293ef924d0dc
+  ℹ  07:41:07|stratum   B-) Submitted and accepted.
+  m  07:41:08|ethminer  Mining on #b4afffde… : 112.20MH/s [A123+2:R0+0:F0]
+  ℹ  07:41:17|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:17|CUDA0       Nonce: 0x1f747a7038053e3e
+  ℹ  07:41:17|stratum   B-) Submitted and accepted.
+  m  07:41:18|ethminer  Mining on #bd209422… : 111.67MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:20|stratum   Received new job #81a4
+  ℹ  07:41:20|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:20|ethminer  Mining on #b481230c… : 105.74MH/s [A114+1:R0+0:F0]
+  m  07:41:22|ethminer  Mining on #b481230c… : 111.15MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:24|stratum   Received new job #81a5
+  ℹ  07:41:24|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:24|ethminer  Mining on #e7487804… : 105.04MH/s [A114+1:R0+0:F0]
+    ℹ  07:40:23|CUDA1     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:23|CUDA1       Nonce: 0xc8d1b16d1efa13e2
+  ℹ  07:40:23|stratum   B-) Submitted and accepted.
+  m  07:40:24|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:26|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:28|ethminer  Mining on #a1ec8d34… : 111.67MH/s [A49+0:R0+0:F0]
+  m  07:40:30|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:32|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  m  07:40:34|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A49+0:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  ℹ  07:40:39|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:39|CUDA0       Nonce: 0x87eee565e19f324a
+  ℹ  07:40:39|stratum   B-) Submitted and accepted.
+  m  07:40:40|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A50+0:R0+0:F0]
+  ℹ  07:40:41|CUDA5     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:41|CUDA5       Nonce: 0x456689d413240fef
+  ℹ  07:40:41|stratum   B-) Submitted and accepted.
+  m  07:40:42|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A51+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:40|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:42|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:40:44|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:46|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:48|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:50|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:52|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:54|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:56|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:58|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:00|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:02|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:04|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:06|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  ℹ  07:41:07|stratum   Received new job #818c
+  ℹ  07:41:07|CUDA2     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:07|CUDA2       Nonce: 0xaa01293ef924d0dc
+  ℹ  07:41:07|stratum   B-) Submitted and accepted.
+  m  07:41:08|ethminer  Mining on #b4afffde… : 112.20MH/s [A123+2:R0+0:F0]
+  ℹ  07:41:17|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:17|CUDA0       Nonce: 0x1f747a7038053e3e
+  ℹ  07:41:17|stratum   B-) Submitted and accepted.
+  m  07:41:18|ethminer  Mining on #bd209422… : 111.67MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:20|stratum   Received new job #81a4
+  ℹ  07:41:20|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:20|ethminer  Mining on #b481230c… : 105.74MH/s [A114+1:R0+0:F0]
+  m  07:41:22|ethminer  Mining on #b481230c… : 111.15MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:24|stratum   Received new job #81a5
+  ℹ  07:41:24|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:24|ethminer  Mining on #e7487804… : 105.04MH/s [A114+1:R0+0:F0]
+    ℹ  07:40:23|CUDA1     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:23|CUDA1       Nonce: 0xc8d1b16d1efa13e2
+  ℹ  07:40:23|stratum   B-) Submitted and accepted.
+  m  07:40:24|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:26|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:28|ethminer  Mining on #a1ec8d34… : 111.67MH/s [A49+0:R0+0:F0]
+  m  07:40:30|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:32|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  m  07:40:34|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A49+0:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  ℹ  07:40:39|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:39|CUDA0       Nonce: 0x87eee565e19f324a
+  ℹ  07:40:39|stratum   B-) Submitted and accepted.
+  m  07:40:40|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A50+0:R0+0:F0]
+  ℹ  07:40:41|CUDA5     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:41|CUDA5       Nonce: 0x456689d413240fef
+  ℹ  07:40:41|stratum   B-) Submitted and accepted.
+  m  07:40:42|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A51+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:40|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:42|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:40:44|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:46|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:48|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:50|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:52|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:54|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:56|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:58|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:00|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:02|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:04|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:06|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  ℹ  07:41:07|stratum   Received new job #818c
+  ℹ  07:41:07|CUDA2     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:07|CUDA2       Nonce: 0xaa01293ef924d0dc
+  ℹ  07:41:07|stratum   B-) Submitted and accepted.
+  m  07:41:08|ethminer  Mining on #b4afffde… : 112.20MH/s [A123+2:R0+0:F0]
+  ℹ  07:41:17|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:17|CUDA0       Nonce: 0x1f747a7038053e3e
+  ℹ  07:41:17|stratum   B-) Submitted and accepted.
+  m  07:41:18|ethminer  Mining on #bd209422… : 111.67MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:20|stratum   Received new job #81a4
+  ℹ  07:41:20|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:20|ethminer  Mining on #b481230c… : 105.74MH/s [A114+1:R0+0:F0]
+  m  07:41:22|ethminer  Mining on #b481230c… : 111.15MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:24|stratum   Received new job #81a5
+  ℹ  07:41:24|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:24|ethminer  Mining on #e7487804… : 105.04MH/s [A114+1:R0+0:F0]
+    ℹ  07:40:23|CUDA1     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:23|CUDA1       Nonce: 0xc8d1b16d1efa13e2
+  ℹ  07:40:23|stratum   B-) Submitted and accepted.
+  m  07:40:24|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:26|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:28|ethminer  Mining on #a1ec8d34… : 111.67MH/s [A49+0:R0+0:F0]
+  m  07:40:30|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:32|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  m  07:40:34|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A49+0:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  ℹ  07:40:39|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:39|CUDA0       Nonce: 0x87eee565e19f324a
+  ℹ  07:40:39|stratum   B-) Submitted and accepted.
+  m  07:40:40|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A50+0:R0+0:F0]
+  ℹ  07:40:41|CUDA5     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:41|CUDA5       Nonce: 0x456689d413240fef
+  ℹ  07:40:41|stratum   B-) Submitted and accepted.
+  m  07:40:42|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A51+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:40|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:42|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:40:44|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:46|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:48|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:50|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:52|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:54|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:56|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:58|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:00|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:02|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:04|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:06|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  ℹ  07:41:07|stratum   Received new job #818c
+  ℹ  07:41:07|CUDA2     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:07|CUDA2       Nonce: 0xaa01293ef924d0dc
+  ℹ  07:41:07|stratum   B-) Submitted and accepted.
+  m  07:41:08|ethminer  Mining on #b4afffde… : 112.20MH/s [A123+2:R0+0:F0]
+  ℹ  07:41:17|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:17|CUDA0       Nonce: 0x1f747a7038053e3e
+  ℹ  07:41:17|stratum   B-) Submitted and accepted.
+  m  07:41:18|ethminer  Mining on #bd209422… : 111.67MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:20|stratum   Received new job #81a4
+  ℹ  07:41:20|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:20|ethminer  Mining on #b481230c… : 105.74MH/s [A114+1:R0+0:F0]
+  m  07:41:22|ethminer  Mining on #b481230c… : 111.15MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:24|stratum   Received new job #81a5
+  ℹ  07:41:24|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:24|ethminer  Mining on #e7487804… : 105.04MH/s [A114+1:R0+0:F0]
+    ℹ  07:40:23|CUDA1     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:23|CUDA1       Nonce: 0xc8d1b16d1efa13e2
+  ℹ  07:40:23|stratum   B-) Submitted and accepted.
+  m  07:40:24|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:26|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:28|ethminer  Mining on #a1ec8d34… : 111.67MH/s [A49+0:R0+0:F0]
+  m  07:40:30|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:32|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  m  07:40:34|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A49+0:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  ℹ  07:40:39|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:39|CUDA0       Nonce: 0x87eee565e19f324a
+  ℹ  07:40:39|stratum   B-) Submitted and accepted.
+  m  07:40:40|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A50+0:R0+0:F0]
+  ℹ  07:40:41|CUDA5     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:41|CUDA5       Nonce: 0x456689d413240fef
+  ℹ  07:40:41|stratum   B-) Submitted and accepted.
+  m  07:40:42|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A51+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:40|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:42|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:40:44|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:46|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:48|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:50|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:52|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:54|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:56|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:58|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:00|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:02|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:04|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:06|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  ℹ  07:41:07|stratum   Received new job #818c
+  ℹ  07:41:07|CUDA2     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:07|CUDA2       Nonce: 0xaa01293ef924d0dc
+  ℹ  07:41:07|stratum   B-) Submitted and accepted.
+  m  07:41:08|ethminer  Mining on #b4afffde… : 112.20MH/s [A123+2:R0+0:F0]
+  ℹ  07:41:17|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:17|CUDA0       Nonce: 0x1f747a7038053e3e
+  ℹ  07:41:17|stratum   B-) Submitted and accepted.
+  m  07:41:18|ethminer  Mining on #bd209422… : 111.67MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:20|stratum   Received new job #81a4
+  ℹ  07:41:20|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:20|ethminer  Mining on #b481230c… : 105.74MH/s [A114+1:R0+0:F0]
+  m  07:41:22|ethminer  Mining on #b481230c… : 111.15MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:24|stratum   Received new job #81a5
+  ℹ  07:41:24|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:24|ethminer  Mining on #e7487804… : 105.04MH/s [A114+1:R0+0:F0]
+    ℹ  07:40:23|CUDA1     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:23|CUDA1       Nonce: 0xc8d1b16d1efa13e2
+  ℹ  07:40:23|stratum   B-) Submitted and accepted.
+  m  07:40:24|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:26|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:28|ethminer  Mining on #a1ec8d34… : 111.67MH/s [A49+0:R0+0:F0]
+  m  07:40:30|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:32|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  m  07:40:34|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A49+0:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  ℹ  07:40:39|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:39|CUDA0       Nonce: 0x87eee565e19f324a
+  ℹ  07:40:39|stratum   B-) Submitted and accepted.
+  m  07:40:40|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A50+0:R0+0:F0]
+  ℹ  07:40:41|CUDA5     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:41|CUDA5       Nonce: 0x456689d413240fef
+  ℹ  07:40:41|stratum   B-) Submitted and accepted.
+  m  07:40:42|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A51+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:40|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:42|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:40:44|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:46|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:48|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:50|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:52|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:54|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:56|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:58|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:00|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:02|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:04|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:06|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  ℹ  07:41:07|stratum   Received new job #818c
+  ℹ  07:41:07|CUDA2     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:07|CUDA2       Nonce: 0xaa01293ef924d0dc
+  ℹ  07:41:07|stratum   B-) Submitted and accepted.
+  m  07:41:08|ethminer  Mining on #b4afffde… : 112.20MH/s [A123+2:R0+0:F0]
+  ℹ  07:41:17|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:17|CUDA0       Nonce: 0x1f747a7038053e3e
+  ℹ  07:41:17|stratum   B-) Submitted and accepted.
+  m  07:41:18|ethminer  Mining on #bd209422… : 111.67MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:20|stratum   Received new job #81a4
+  ℹ  07:41:20|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:20|ethminer  Mining on #b481230c… : 105.74MH/s [A114+1:R0+0:F0]
+  m  07:41:22|ethminer  Mining on #b481230c… : 111.15MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:24|stratum   Received new job #81a5
+  ℹ  07:41:24|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:24|ethminer  Mining on #e7487804… : 105.04MH/s [A114+1:R0+0:F0]
+    ℹ  07:40:23|CUDA1     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:23|CUDA1       Nonce: 0xc8d1b16d1efa13e2
+  ℹ  07:40:23|stratum   B-) Submitted and accepted.
+  m  07:40:24|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:26|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:28|ethminer  Mining on #a1ec8d34… : 111.67MH/s [A49+0:R0+0:F0]
+  m  07:40:30|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:32|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  m  07:40:34|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A49+0:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  ℹ  07:40:39|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:39|CUDA0       Nonce: 0x87eee565e19f324a
+  ℹ  07:40:39|stratum   B-) Submitted and accepted.
+  m  07:40:40|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A50+0:R0+0:F0]
+  ℹ  07:40:41|CUDA5     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:41|CUDA5       Nonce: 0x456689d413240fef
+  ℹ  07:40:41|stratum   B-) Submitted and accepted.
+  m  07:40:42|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A51+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:40|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:42|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:40:44|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:46|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:48|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:50|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:52|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:54|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:56|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:58|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:00|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:02|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:04|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:06|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  ℹ  07:41:07|stratum   Received new job #818c
+  ℹ  07:41:07|CUDA2     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:07|CUDA2       Nonce: 0xaa01293ef924d0dc
+  ℹ  07:41:07|stratum   B-) Submitted and accepted.
+  m  07:41:08|ethminer  Mining on #b4afffde… : 112.20MH/s [A123+2:R0+0:F0]
+  ℹ  07:41:17|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:17|CUDA0       Nonce: 0x1f747a7038053e3e
+  ℹ  07:41:17|stratum   B-) Submitted and accepted.
+  m  07:41:18|ethminer  Mining on #bd209422… : 111.67MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:20|stratum   Received new job #81a4
+  ℹ  07:41:20|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:20|ethminer  Mining on #b481230c… : 105.74MH/s [A114+1:R0+0:F0]
+  m  07:41:22|ethminer  Mining on #b481230c… : 111.15MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:24|stratum   Received new job #81a5
+  ℹ  07:41:24|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:24|ethminer  Mining on #e7487804… : 105.04MH/s [A114+1:R0+0:F0]
+    ℹ  07:40:23|CUDA1     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:23|CUDA1       Nonce: 0xc8d1b16d1efa13e2
+  ℹ  07:40:23|stratum   B-) Submitted and accepted.
+  m  07:40:24|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:26|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:28|ethminer  Mining on #a1ec8d34… : 111.67MH/s [A49+0:R0+0:F0]
+  m  07:40:30|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:32|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  m  07:40:34|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A49+0:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  ℹ  07:40:39|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:39|CUDA0       Nonce: 0x87eee565e19f324a
+  ℹ  07:40:39|stratum   B-) Submitted and accepted.
+  m  07:40:40|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A50+0:R0+0:F0]
+  ℹ  07:40:41|CUDA5     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:41|CUDA5       Nonce: 0x456689d413240fef
+  ℹ  07:40:41|stratum   B-) Submitted and accepted.
+  m  07:40:42|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A51+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:40|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:42|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:40:44|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:46|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:48|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:50|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:52|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:54|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:56|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:58|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:00|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:02|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:04|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:06|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  ℹ  07:41:07|stratum   Received new job #818c
+  ℹ  07:41:07|CUDA2     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:07|CUDA2       Nonce: 0xaa01293ef924d0dc
+  ℹ  07:41:07|stratum   B-) Submitted and accepted.
+  m  07:41:08|ethminer  Mining on #b4afffde… : 112.20MH/s [A123+2:R0+0:F0]
+  ℹ  07:41:17|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:17|CUDA0       Nonce: 0x1f747a7038053e3e
+  ℹ  07:41:17|stratum   B-) Submitted and accepted.
+  m  07:41:18|ethminer  Mining on #bd209422… : 111.67MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:20|stratum   Received new job #81a4
+  ℹ  07:41:20|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:20|ethminer  Mining on #b481230c… : 105.74MH/s [A114+1:R0+0:F0]
+  m  07:41:22|ethminer  Mining on #b481230c… : 111.15MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:24|stratum   Received new job #81a5
+  ℹ  07:41:24|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:24|ethminer  Mining on #e7487804… : 105.04MH/s [A114+1:R0+0:F0]
+    ℹ  07:40:23|CUDA1     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:23|CUDA1       Nonce: 0xc8d1b16d1efa13e2
+  ℹ  07:40:23|stratum   B-) Submitted and accepted.
+  m  07:40:24|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:26|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:28|ethminer  Mining on #a1ec8d34… : 111.67MH/s [A49+0:R0+0:F0]
+  m  07:40:30|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:32|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  m  07:40:34|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A49+0:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  ℹ  07:40:39|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:39|CUDA0       Nonce: 0x87eee565e19f324a
+  ℹ  07:40:39|stratum   B-) Submitted and accepted.
+  m  07:40:40|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A50+0:R0+0:F0]
+  ℹ  07:40:41|CUDA5     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:41|CUDA5       Nonce: 0x456689d413240fef
+  ℹ  07:40:41|stratum   B-) Submitted and accepted.
+  m  07:40:42|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A51+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:40|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:42|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:40:44|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:46|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:48|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:50|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:52|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:54|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:56|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:58|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:00|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:02|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:04|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:06|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  ℹ  07:41:07|stratum   Received new job #818c
+  ℹ  07:41:07|CUDA2     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:07|CUDA2       Nonce: 0xaa01293ef924d0dc
+  ℹ  07:41:07|stratum   B-) Submitted and accepted.
+  m  07:41:08|ethminer  Mining on #b4afffde… : 112.20MH/s [A123+2:R0+0:F0]
+  ℹ  07:41:17|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:17|CUDA0       Nonce: 0x1f747a7038053e3e
+  ℹ  07:41:17|stratum   B-) Submitted and accepted.
+  m  07:41:18|ethminer  Mining on #bd209422… : 111.67MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:20|stratum   Received new job #81a4
+  ℹ  07:41:20|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:20|ethminer  Mining on #b481230c… : 105.74MH/s [A114+1:R0+0:F0]
+  m  07:41:22|ethminer  Mining on #b481230c… : 111.15MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:24|stratum   Received new job #81a5
+  ℹ  07:41:24|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:24|ethminer  Mining on #e7487804… : 105.04MH/s [A114+1:R0+0:F0]
+    ℹ  07:40:23|CUDA1     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:23|CUDA1       Nonce: 0xc8d1b16d1efa13e2
+  ℹ  07:40:23|stratum   B-) Submitted and accepted.
+  m  07:40:24|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:26|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:28|ethminer  Mining on #a1ec8d34… : 111.67MH/s [A49+0:R0+0:F0]
+  m  07:40:30|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:32|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  m  07:40:34|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A49+0:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  ℹ  07:40:39|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:39|CUDA0       Nonce: 0x87eee565e19f324a
+  ℹ  07:40:39|stratum   B-) Submitted and accepted.
+  m  07:40:40|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A50+0:R0+0:F0]
+  ℹ  07:40:41|CUDA5     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:41|CUDA5       Nonce: 0x456689d413240fef
+  ℹ  07:40:41|stratum   B-) Submitted and accepted.
+  m  07:40:42|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A51+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:40|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:42|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:40:44|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:46|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:48|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:50|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:52|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:54|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:56|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:58|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:00|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:02|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:04|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:06|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  ℹ  07:41:07|stratum   Received new job #818c
+  ℹ  07:41:07|CUDA2     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:07|CUDA2       Nonce: 0xaa01293ef924d0dc
+  ℹ  07:41:07|stratum   B-) Submitted and accepted.
+  m  07:41:08|ethminer  Mining on #b4afffde… : 112.20MH/s [A123+2:R0+0:F0]
+  ℹ  07:41:17|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:17|CUDA0       Nonce: 0x1f747a7038053e3e
+  ℹ  07:41:17|stratum   B-) Submitted and accepted.
+  m  07:41:18|ethminer  Mining on #bd209422… : 111.67MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:20|stratum   Received new job #81a4
+  ℹ  07:41:20|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:20|ethminer  Mining on #b481230c… : 105.74MH/s [A114+1:R0+0:F0]
+  m  07:41:22|ethminer  Mining on #b481230c… : 111.15MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:24|stratum   Received new job #81a5
+  ℹ  07:41:24|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:24|ethminer  Mining on #e7487804… : 105.04MH/s [A114+1:R0+0:F0]
+    ℹ  07:40:23|CUDA1     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:23|CUDA1       Nonce: 0xc8d1b16d1efa13e2
+  ℹ  07:40:23|stratum   B-) Submitted and accepted.
+  m  07:40:24|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:26|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:28|ethminer  Mining on #a1ec8d34… : 111.67MH/s [A49+0:R0+0:F0]
+  m  07:40:30|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:32|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  m  07:40:34|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A49+0:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  ℹ  07:40:39|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:39|CUDA0       Nonce: 0x87eee565e19f324a
+  ℹ  07:40:39|stratum   B-) Submitted and accepted.
+  m  07:40:40|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A50+0:R0+0:F0]
+  ℹ  07:40:41|CUDA5     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:41|CUDA5       Nonce: 0x456689d413240fef
+  ℹ  07:40:41|stratum   B-) Submitted and accepted.
+  m  07:40:42|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A51+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:40|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:42|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:40:44|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:46|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:48|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:50|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:52|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:54|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:56|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:58|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:00|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:02|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:04|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:06|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  ℹ  07:41:07|stratum   Received new job #818c
+  ℹ  07:41:07|CUDA2     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:07|CUDA2       Nonce: 0xaa01293ef924d0dc
+  ℹ  07:41:07|stratum   B-) Submitted and accepted.
+  m  07:41:08|ethminer  Mining on #b4afffde… : 112.20MH/s [A123+2:R0+0:F0]
+  ℹ  07:41:17|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:17|CUDA0       Nonce: 0x1f747a7038053e3e
+  ℹ  07:41:17|stratum   B-) Submitted and accepted.
+  m  07:41:18|ethminer  Mining on #bd209422… : 111.67MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:20|stratum   Received new job #81a4
+  ℹ  07:41:20|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:20|ethminer  Mining on #b481230c… : 105.74MH/s [A114+1:R0+0:F0]
+  m  07:41:22|ethminer  Mining on #b481230c… : 111.15MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:24|stratum   Received new job #81a5
+  ℹ  07:41:24|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:24|ethminer  Mining on #e7487804… : 105.04MH/s [A114+1:R0+0:F0]
+    ℹ  07:40:23|CUDA1     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:23|CUDA1       Nonce: 0xc8d1b16d1efa13e2
+  ℹ  07:40:23|stratum   B-) Submitted and accepted.
+  m  07:40:24|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:26|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:28|ethminer  Mining on #a1ec8d34… : 111.67MH/s [A49+0:R0+0:F0]
+  m  07:40:30|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:32|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  m  07:40:34|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A49+0:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  ℹ  07:40:39|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:39|CUDA0       Nonce: 0x87eee565e19f324a
+  ℹ  07:40:39|stratum   B-) Submitted and accepted.
+  m  07:40:40|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A50+0:R0+0:F0]
+  ℹ  07:40:41|CUDA5     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:41|CUDA5       Nonce: 0x456689d413240fef
+  ℹ  07:40:41|stratum   B-) Submitted and accepted.
+  m  07:40:42|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A51+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:40|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:42|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:40:44|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:46|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:48|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:50|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:52|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:54|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:56|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:58|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:00|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:02|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:04|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:06|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  ℹ  07:41:07|stratum   Received new job #818c
+  ℹ  07:41:07|CUDA2     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:07|CUDA2       Nonce: 0xaa01293ef924d0dc
+  ℹ  07:41:07|stratum   B-) Submitted and accepted.
+  m  07:41:08|ethminer  Mining on #b4afffde… : 112.20MH/s [A123+2:R0+0:F0]
+  ℹ  07:41:17|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:17|CUDA0       Nonce: 0x1f747a7038053e3e
+  ℹ  07:41:17|stratum   B-) Submitted and accepted.
+  m  07:41:18|ethminer  Mining on #bd209422… : 111.67MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:20|stratum   Received new job #81a4
+  ℹ  07:41:20|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:20|ethminer  Mining on #b481230c… : 105.74MH/s [A114+1:R0+0:F0]
+  m  07:41:22|ethminer  Mining on #b481230c… : 111.15MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:24|stratum   Received new job #81a5
+  ℹ  07:41:24|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:24|ethminer  Mining on #e7487804… : 105.04MH/s [A114+1:R0+0:F0]
+    ℹ  07:40:23|CUDA1     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:23|CUDA1       Nonce: 0xc8d1b16d1efa13e2
+  ℹ  07:40:23|stratum   B-) Submitted and accepted.
+  m  07:40:24|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:26|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:28|ethminer  Mining on #a1ec8d34… : 111.67MH/s [A49+0:R0+0:F0]
+  m  07:40:30|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:32|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  m  07:40:34|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A49+0:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  ℹ  07:40:39|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:39|CUDA0       Nonce: 0x87eee565e19f324a
+  ℹ  07:40:39|stratum   B-) Submitted and accepted.
+  m  07:40:40|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A50+0:R0+0:F0]
+  ℹ  07:40:41|CUDA5     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:41|CUDA5       Nonce: 0x456689d413240fef
+  ℹ  07:40:41|stratum   B-) Submitted and accepted.
+  m  07:40:42|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A51+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:40|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:42|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:40:44|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:46|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:48|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:50|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:52|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:54|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:56|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:58|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:00|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:02|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:04|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:06|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  ℹ  07:41:07|stratum   Received new job #818c
+  ℹ  07:41:07|CUDA2     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:07|CUDA2       Nonce: 0xaa01293ef924d0dc
+  ℹ  07:41:07|stratum   B-) Submitted and accepted.
+  m  07:41:08|ethminer  Mining on #b4afffde… : 112.20MH/s [A123+2:R0+0:F0]
+  ℹ  07:41:17|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:17|CUDA0       Nonce: 0x1f747a7038053e3e
+  ℹ  07:41:17|stratum   B-) Submitted and accepted.
+  m  07:41:18|ethminer  Mining on #bd209422… : 111.67MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:20|stratum   Received new job #81a4
+  ℹ  07:41:20|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:20|ethminer  Mining on #b481230c… : 105.74MH/s [A114+1:R0+0:F0]
+  m  07:41:22|ethminer  Mining on #b481230c… : 111.15MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:24|stratum   Received new job #81a5
+  ℹ  07:41:24|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:24|ethminer  Mining on #e7487804… : 105.04MH/s [A114+1:R0+0:F0]
+    ℹ  07:40:23|CUDA1     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:23|CUDA1       Nonce: 0xc8d1b16d1efa13e2
+  ℹ  07:40:23|stratum   B-) Submitted and accepted.
+  m  07:40:24|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:26|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:28|ethminer  Mining on #a1ec8d34… : 111.67MH/s [A49+0:R0+0:F0]
+  m  07:40:30|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:32|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  m  07:40:34|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A49+0:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  ℹ  07:40:39|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:39|CUDA0       Nonce: 0x87eee565e19f324a
+  ℹ  07:40:39|stratum   B-) Submitted and accepted.
+  m  07:40:40|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A50+0:R0+0:F0]
+  ℹ  07:40:41|CUDA5     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:41|CUDA5       Nonce: 0x456689d413240fef
+  ℹ  07:40:41|stratum   B-) Submitted and accepted.
+  m  07:40:42|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A51+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:40|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:42|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:40:44|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:46|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:48|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:50|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:52|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:54|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:56|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:58|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:00|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:02|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:04|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:06|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  ℹ  07:41:07|stratum   Received new job #818c
+  ℹ  07:41:07|CUDA2     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:07|CUDA2       Nonce: 0xaa01293ef924d0dc
+  ℹ  07:41:07|stratum   B-) Submitted and accepted.
+  m  07:41:08|ethminer  Mining on #b4afffde… : 112.20MH/s [A123+2:R0+0:F0]
+  ℹ  07:41:17|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:17|CUDA0       Nonce: 0x1f747a7038053e3e
+  ℹ  07:41:17|stratum   B-) Submitted and accepted.
+  m  07:41:18|ethminer  Mining on #bd209422… : 111.67MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:20|stratum   Received new job #81a4
+  ℹ  07:41:20|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:20|ethminer  Mining on #b481230c… : 105.74MH/s [A114+1:R0+0:F0]
+  m  07:41:22|ethminer  Mining on #b481230c… : 111.15MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:24|stratum   Received new job #81a5
+  ℹ  07:41:24|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:24|ethminer  Mining on #e7487804… : 105.04MH/s [A114+1:R0+0:F0]
+    ℹ  07:40:23|CUDA1     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:23|CUDA1       Nonce: 0xc8d1b16d1efa13e2
+  ℹ  07:40:23|stratum   B-) Submitted and accepted.
+  m  07:40:24|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:26|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:28|ethminer  Mining on #a1ec8d34… : 111.67MH/s [A49+0:R0+0:F0]
+  m  07:40:30|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:32|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  m  07:40:34|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A49+0:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  ℹ  07:40:39|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:39|CUDA0       Nonce: 0x87eee565e19f324a
+  ℹ  07:40:39|stratum   B-) Submitted and accepted.
+  m  07:40:40|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A50+0:R0+0:F0]
+  ℹ  07:40:41|CUDA5     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:41|CUDA5       Nonce: 0x456689d413240fef
+  ℹ  07:40:41|stratum   B-) Submitted and accepted.
+  m  07:40:42|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A51+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:40|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:42|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:40:44|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:46|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:48|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:50|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:52|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:54|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:56|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:58|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:00|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:02|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:04|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:06|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  ℹ  07:41:07|stratum   Received new job #818c
+  ℹ  07:41:07|CUDA2     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:07|CUDA2       Nonce: 0xaa01293ef924d0dc
+  ℹ  07:41:07|stratum   B-) Submitted and accepted.
+  m  07:41:08|ethminer  Mining on #b4afffde… : 112.20MH/s [A123+2:R0+0:F0]
+  ℹ  07:41:17|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:17|CUDA0       Nonce: 0x1f747a7038053e3e
+  ℹ  07:41:17|stratum   B-) Submitted and accepted.
+  m  07:41:18|ethminer  Mining on #bd209422… : 111.67MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:20|stratum   Received new job #81a4
+  ℹ  07:41:20|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:20|ethminer  Mining on #b481230c… : 105.74MH/s [A114+1:R0+0:F0]
+  m  07:41:22|ethminer  Mining on #b481230c… : 111.15MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:24|stratum   Received new job #81a5
+  ℹ  07:41:24|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:24|ethminer  Mining on #e7487804… : 105.04MH/s [A114+1:R0+0:F0]
+    ℹ  07:40:23|CUDA1     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:23|CUDA1       Nonce: 0xc8d1b16d1efa13e2
+  ℹ  07:40:23|stratum   B-) Submitted and accepted.
+  m  07:40:24|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:26|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:28|ethminer  Mining on #a1ec8d34… : 111.67MH/s [A49+0:R0+0:F0]
+  m  07:40:30|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:32|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  m  07:40:34|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A49+0:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  ℹ  07:40:39|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:39|CUDA0       Nonce: 0x87eee565e19f324a
+  ℹ  07:40:39|stratum   B-) Submitted and accepted.
+  m  07:40:40|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A50+0:R0+0:F0]
+  ℹ  07:40:41|CUDA5     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:41|CUDA5       Nonce: 0x456689d413240fef
+  ℹ  07:40:41|stratum   B-) Submitted and accepted.
+  m  07:40:42|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A51+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:40|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:42|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:40:44|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:46|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:48|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:50|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:52|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:54|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:56|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:58|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:00|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:02|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:04|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:06|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  ℹ  07:41:07|stratum   Received new job #818c
+  ℹ  07:41:07|CUDA2     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:07|CUDA2       Nonce: 0xaa01293ef924d0dc
+  ℹ  07:41:07|stratum   B-) Submitted and accepted.
+  m  07:41:08|ethminer  Mining on #b4afffde… : 112.20MH/s [A123+2:R0+0:F0]
+  ℹ  07:41:17|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:17|CUDA0       Nonce: 0x1f747a7038053e3e
+  ℹ  07:41:17|stratum   B-) Submitted and accepted.
+  m  07:41:18|ethminer  Mining on #bd209422… : 111.67MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:20|stratum   Received new job #81a4
+  ℹ  07:41:20|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:20|ethminer  Mining on #b481230c… : 105.74MH/s [A114+1:R0+0:F0]
+  m  07:41:22|ethminer  Mining on #b481230c… : 111.15MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:24|stratum   Received new job #81a5
+  ℹ  07:41:24|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:24|ethminer  Mining on #e7487804… : 105.04MH/s [A114+1:R0+0:F0]
+    ℹ  07:40:23|CUDA1     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:23|CUDA1       Nonce: 0xc8d1b16d1efa13e2
+  ℹ  07:40:23|stratum   B-) Submitted and accepted.
+  m  07:40:24|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:26|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:28|ethminer  Mining on #a1ec8d34… : 111.67MH/s [A49+0:R0+0:F0]
+  m  07:40:30|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:32|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  m  07:40:34|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A49+0:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  ℹ  07:40:39|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:39|CUDA0       Nonce: 0x87eee565e19f324a
+  ℹ  07:40:39|stratum   B-) Submitted and accepted.
+  m  07:40:40|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A50+0:R0+0:F0]
+  ℹ  07:40:41|CUDA5     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:41|CUDA5       Nonce: 0x456689d413240fef
+  ℹ  07:40:41|stratum   B-) Submitted and accepted.
+  m  07:40:42|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A51+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:40|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:42|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:40:44|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:46|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:48|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:50|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:52|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:54|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:56|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:58|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:00|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:02|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:04|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:06|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  ℹ  07:41:07|stratum   Received new job #818c
+  ℹ  07:41:07|CUDA2     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:07|CUDA2       Nonce: 0xaa01293ef924d0dc
+  ℹ  07:41:07|stratum   B-) Submitted and accepted.
+  m  07:41:08|ethminer  Mining on #b4afffde… : 112.20MH/s [A123+2:R0+0:F0]
+  ℹ  07:41:17|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:17|CUDA0       Nonce: 0x1f747a7038053e3e
+  ℹ  07:41:17|stratum   B-) Submitted and accepted.
+  m  07:41:18|ethminer  Mining on #bd209422… : 111.67MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:20|stratum   Received new job #81a4
+  ℹ  07:41:20|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:20|ethminer  Mining on #b481230c… : 105.74MH/s [A114+1:R0+0:F0]
+  m  07:41:22|ethminer  Mining on #b481230c… : 111.15MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:24|stratum   Received new job #81a5
+  ℹ  07:41:24|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:24|ethminer  Mining on #e7487804… : 105.04MH/s [A114+1:R0+0:F0]
+    ℹ  07:40:23|CUDA1     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:23|CUDA1       Nonce: 0xc8d1b16d1efa13e2
+  ℹ  07:40:23|stratum   B-) Submitted and accepted.
+  m  07:40:24|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:26|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:28|ethminer  Mining on #a1ec8d34… : 111.67MH/s [A49+0:R0+0:F0]
+  m  07:40:30|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:32|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  m  07:40:34|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A49+0:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  ℹ  07:40:39|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:39|CUDA0       Nonce: 0x87eee565e19f324a
+  ℹ  07:40:39|stratum   B-) Submitted and accepted.
+  m  07:40:40|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A50+0:R0+0:F0]
+  ℹ  07:40:41|CUDA5     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:41|CUDA5       Nonce: 0x456689d413240fef
+  ℹ  07:40:41|stratum   B-) Submitted and accepted.
+  m  07:40:42|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A51+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:40|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:42|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:40:44|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:46|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:48|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:50|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:52|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:54|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:56|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:58|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:00|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:02|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:04|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:06|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  ℹ  07:41:07|stratum   Received new job #818c
+  ℹ  07:41:07|CUDA2     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:07|CUDA2       Nonce: 0xaa01293ef924d0dc
+  ℹ  07:41:07|stratum   B-) Submitted and accepted.
+  m  07:41:08|ethminer  Mining on #b4afffde… : 112.20MH/s [A123+2:R0+0:F0]
+  ℹ  07:41:17|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:17|CUDA0       Nonce: 0x1f747a7038053e3e
+  ℹ  07:41:17|stratum   B-) Submitted and accepted.
+  m  07:41:18|ethminer  Mining on #bd209422… : 111.67MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:20|stratum   Received new job #81a4
+  ℹ  07:41:20|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:20|ethminer  Mining on #b481230c… : 105.74MH/s [A114+1:R0+0:F0]
+  m  07:41:22|ethminer  Mining on #b481230c… : 111.15MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:24|stratum   Received new job #81a5
+  ℹ  07:41:24|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:24|ethminer  Mining on #e7487804… : 105.04MH/s [A114+1:R0+0:F0]
+    ℹ  07:40:23|CUDA1     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:23|CUDA1       Nonce: 0xc8d1b16d1efa13e2
+  ℹ  07:40:23|stratum   B-) Submitted and accepted.
+  m  07:40:24|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:26|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:28|ethminer  Mining on #a1ec8d34… : 111.67MH/s [A49+0:R0+0:F0]
+  m  07:40:30|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:32|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  m  07:40:34|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A49+0:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  ℹ  07:40:39|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:39|CUDA0       Nonce: 0x87eee565e19f324a
+  ℹ  07:40:39|stratum   B-) Submitted and accepted.
+  m  07:40:40|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A50+0:R0+0:F0]
+  ℹ  07:40:41|CUDA5     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:41|CUDA5       Nonce: 0x456689d413240fef
+  ℹ  07:40:41|stratum   B-) Submitted and accepted.
+  m  07:40:42|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A51+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:40|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:42|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:40:44|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:46|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:48|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:50|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:52|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:54|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:56|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:58|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:00|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:02|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:04|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:06|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  ℹ  07:41:07|stratum   Received new job #818c
+  ℹ  07:41:07|CUDA2     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:07|CUDA2       Nonce: 0xaa01293ef924d0dc
+  ℹ  07:41:07|stratum   B-) Submitted and accepted.
+  m  07:41:08|ethminer  Mining on #b4afffde… : 112.20MH/s [A123+2:R0+0:F0]
+  ℹ  07:41:17|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:17|CUDA0       Nonce: 0x1f747a7038053e3e
+  ℹ  07:41:17|stratum   B-) Submitted and accepted.
+  m  07:41:18|ethminer  Mining on #bd209422… : 111.67MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:20|stratum   Received new job #81a4
+  ℹ  07:41:20|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:20|ethminer  Mining on #b481230c… : 105.74MH/s [A114+1:R0+0:F0]
+  m  07:41:22|ethminer  Mining on #b481230c… : 111.15MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:24|stratum   Received new job #81a5
+  ℹ  07:41:24|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:24|ethminer  Mining on #e7487804… : 105.04MH/s [A114+1:R0+0:F0]
+    ℹ  07:40:23|CUDA1     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:23|CUDA1       Nonce: 0xc8d1b16d1efa13e2
+  ℹ  07:40:23|stratum   B-) Submitted and accepted.
+  m  07:40:24|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:26|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:28|ethminer  Mining on #a1ec8d34… : 111.67MH/s [A49+0:R0+0:F0]
+  m  07:40:30|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:32|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  m  07:40:34|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A49+0:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  ℹ  07:40:39|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:39|CUDA0       Nonce: 0x87eee565e19f324a
+  ℹ  07:40:39|stratum   B-) Submitted and accepted.
+  m  07:40:40|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A50+0:R0+0:F0]
+  ℹ  07:40:41|CUDA5     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:41|CUDA5       Nonce: 0x456689d413240fef
+  ℹ  07:40:41|stratum   B-) Submitted and accepted.
+  m  07:40:42|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A51+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:40|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:42|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:40:44|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:46|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:48|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:50|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:52|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:54|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:56|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:58|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:00|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:02|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:04|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:06|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  ℹ  07:41:07|stratum   Received new job #818c
+  ℹ  07:41:07|CUDA2     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:07|CUDA2       Nonce: 0xaa01293ef924d0dc
+  ℹ  07:41:07|stratum   B-) Submitted and accepted.
+  m  07:41:08|ethminer  Mining on #b4afffde… : 112.20MH/s [A123+2:R0+0:F0]
+  ℹ  07:41:17|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:17|CUDA0       Nonce: 0x1f747a7038053e3e
+  ℹ  07:41:17|stratum   B-) Submitted and accepted.
+  m  07:41:18|ethminer  Mining on #bd209422… : 111.67MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:20|stratum   Received new job #81a4
+  ℹ  07:41:20|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:20|ethminer  Mining on #b481230c… : 105.74MH/s [A114+1:R0+0:F0]
+  m  07:41:22|ethminer  Mining on #b481230c… : 111.15MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:24|stratum   Received new job #81a5
+  ℹ  07:41:24|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:24|ethminer  Mining on #e7487804… : 105.04MH/s [A114+1:R0+0:F0]
+    ℹ  07:40:23|CUDA1     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:23|CUDA1       Nonce: 0xc8d1b16d1efa13e2
+  ℹ  07:40:23|stratum   B-) Submitted and accepted.
+  m  07:40:24|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:26|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:28|ethminer  Mining on #a1ec8d34… : 111.67MH/s [A49+0:R0+0:F0]
+  m  07:40:30|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:32|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  m  07:40:34|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A49+0:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  ℹ  07:40:39|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:39|CUDA0       Nonce: 0x87eee565e19f324a
+  ℹ  07:40:39|stratum   B-) Submitted and accepted.
+  m  07:40:40|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A50+0:R0+0:F0]
+  ℹ  07:40:41|CUDA5     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:41|CUDA5       Nonce: 0x456689d413240fef
+  ℹ  07:40:41|stratum   B-) Submitted and accepted.
+  m  07:40:42|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A51+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:40|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:42|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:40:44|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:46|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:48|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:50|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:52|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:54|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:56|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:58|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:00|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:02|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:04|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:06|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  ℹ  07:41:07|stratum   Received new job #818c
+  ℹ  07:41:07|CUDA2     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:07|CUDA2       Nonce: 0xaa01293ef924d0dc
+  ℹ  07:41:07|stratum   B-) Submitted and accepted.
+  m  07:41:08|ethminer  Mining on #b4afffde… : 112.20MH/s [A123+2:R0+0:F0]
+  ℹ  07:41:17|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:17|CUDA0       Nonce: 0x1f747a7038053e3e
+  ℹ  07:41:17|stratum   B-) Submitted and accepted.
+  m  07:41:18|ethminer  Mining on #bd209422… : 111.67MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:20|stratum   Received new job #81a4
+  ℹ  07:41:20|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:20|ethminer  Mining on #b481230c… : 105.74MH/s [A114+1:R0+0:F0]
+  m  07:41:22|ethminer  Mining on #b481230c… : 111.15MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:24|stratum   Received new job #81a5
+  ℹ  07:41:24|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:24|ethminer  Mining on #e7487804… : 105.04MH/s [A114+1:R0+0:F0]
+    ℹ  07:40:23|CUDA1     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:23|CUDA1       Nonce: 0xc8d1b16d1efa13e2
+  ℹ  07:40:23|stratum   B-) Submitted and accepted.
+  m  07:40:24|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:26|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:28|ethminer  Mining on #a1ec8d34… : 111.67MH/s [A49+0:R0+0:F0]
+  m  07:40:30|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:32|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  m  07:40:34|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A49+0:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  ℹ  07:40:39|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:39|CUDA0       Nonce: 0x87eee565e19f324a
+  ℹ  07:40:39|stratum   B-) Submitted and accepted.
+  m  07:40:40|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A50+0:R0+0:F0]
+  ℹ  07:40:41|CUDA5     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:41|CUDA5       Nonce: 0x456689d413240fef
+  ℹ  07:40:41|stratum   B-) Submitted and accepted.
+  m  07:40:42|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A51+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:40|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:42|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:40:44|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:46|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:48|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:50|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:52|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:54|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:56|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:58|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:00|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:02|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:04|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:06|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  ℹ  07:41:07|stratum   Received new job #818c
+  ℹ  07:41:07|CUDA2     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:07|CUDA2       Nonce: 0xaa01293ef924d0dc
+  ℹ  07:41:07|stratum   B-) Submitted and accepted.
+  m  07:41:08|ethminer  Mining on #b4afffde… : 112.20MH/s [A123+2:R0+0:F0]
+  ℹ  07:41:17|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:17|CUDA0       Nonce: 0x1f747a7038053e3e
+  ℹ  07:41:17|stratum   B-) Submitted and accepted.
+  m  07:41:18|ethminer  Mining on #bd209422… : 111.67MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:20|stratum   Received new job #81a4
+  ℹ  07:41:20|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:20|ethminer  Mining on #b481230c… : 105.74MH/s [A114+1:R0+0:F0]
+  m  07:41:22|ethminer  Mining on #b481230c… : 111.15MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:24|stratum   Received new job #81a5
+  ℹ  07:41:24|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:24|ethminer  Mining on #e7487804… : 105.04MH/s [A114+1:R0+0:F0]
+    ℹ  07:40:23|CUDA1     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:23|CUDA1       Nonce: 0xc8d1b16d1efa13e2
+  ℹ  07:40:23|stratum   B-) Submitted and accepted.
+  m  07:40:24|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:26|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:28|ethminer  Mining on #a1ec8d34… : 111.67MH/s [A49+0:R0+0:F0]
+  m  07:40:30|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:32|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  m  07:40:34|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A49+0:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  ℹ  07:40:39|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:39|CUDA0       Nonce: 0x87eee565e19f324a
+  ℹ  07:40:39|stratum   B-) Submitted and accepted.
+  m  07:40:40|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A50+0:R0+0:F0]
+  ℹ  07:40:41|CUDA5     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:41|CUDA5       Nonce: 0x456689d413240fef
+  ℹ  07:40:41|stratum   B-) Submitted and accepted.
+  m  07:40:42|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A51+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:40|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:42|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:40:44|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:46|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:48|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:50|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:52|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:54|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:56|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:58|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:00|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:02|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:04|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:06|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  ℹ  07:41:07|stratum   Received new job #818c
+  ℹ  07:41:07|CUDA2     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:07|CUDA2       Nonce: 0xaa01293ef924d0dc
+  ℹ  07:41:07|stratum   B-) Submitted and accepted.
+  m  07:41:08|ethminer  Mining on #b4afffde… : 112.20MH/s [A123+2:R0+0:F0]
+  ℹ  07:41:17|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:17|CUDA0       Nonce: 0x1f747a7038053e3e
+  ℹ  07:41:17|stratum   B-) Submitted and accepted.
+  m  07:41:18|ethminer  Mining on #bd209422… : 111.67MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:20|stratum   Received new job #81a4
+  ℹ  07:41:20|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:20|ethminer  Mining on #b481230c… : 105.74MH/s [A114+1:R0+0:F0]
+  m  07:41:22|ethminer  Mining on #b481230c… : 111.15MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:24|stratum   Received new job #81a5
+  ℹ  07:41:24|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:24|ethminer  Mining on #e7487804… : 105.04MH/s [A114+1:R0+0:F0]
+    ℹ  07:40:23|CUDA1     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:23|CUDA1       Nonce: 0xc8d1b16d1efa13e2
+  ℹ  07:40:23|stratum   B-) Submitted and accepted.
+  m  07:40:24|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:26|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:28|ethminer  Mining on #a1ec8d34… : 111.67MH/s [A49+0:R0+0:F0]
+  m  07:40:30|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:32|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  m  07:40:34|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A49+0:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  ℹ  07:40:39|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:39|CUDA0       Nonce: 0x87eee565e19f324a
+  ℹ  07:40:39|stratum   B-) Submitted and accepted.
+  m  07:40:40|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A50+0:R0+0:F0]
+  ℹ  07:40:41|CUDA5     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:41|CUDA5       Nonce: 0x456689d413240fef
+  ℹ  07:40:41|stratum   B-) Submitted and accepted.
+  m  07:40:42|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A51+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:40|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:42|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:40:44|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:46|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:48|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:50|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:52|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:54|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:56|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:58|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:00|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:02|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:04|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:06|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  ℹ  07:41:07|stratum   Received new job #818c
+  ℹ  07:41:07|CUDA2     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:07|CUDA2       Nonce: 0xaa01293ef924d0dc
+  ℹ  07:41:07|stratum   B-) Submitted and accepted.
+  m  07:41:08|ethminer  Mining on #b4afffde… : 112.20MH/s [A123+2:R0+0:F0]
+  ℹ  07:41:17|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:17|CUDA0       Nonce: 0x1f747a7038053e3e
+  ℹ  07:41:17|stratum   B-) Submitted and accepted.
+  m  07:41:18|ethminer  Mining on #bd209422… : 111.67MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:20|stratum   Received new job #81a4
+  ℹ  07:41:20|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:20|ethminer  Mining on #b481230c… : 105.74MH/s [A114+1:R0+0:F0]
+  m  07:41:22|ethminer  Mining on #b481230c… : 111.15MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:24|stratum   Received new job #81a5
+  ℹ  07:41:24|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:24|ethminer  Mining on #e7487804… : 105.04MH/s [A114+1:R0+0:F0]
+    ℹ  07:40:23|CUDA1     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:23|CUDA1       Nonce: 0xc8d1b16d1efa13e2
+  ℹ  07:40:23|stratum   B-) Submitted and accepted.
+  m  07:40:24|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:26|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:28|ethminer  Mining on #a1ec8d34… : 111.67MH/s [A49+0:R0+0:F0]
+  m  07:40:30|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:32|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  m  07:40:34|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A49+0:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  ℹ  07:40:39|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:39|CUDA0       Nonce: 0x87eee565e19f324a
+  ℹ  07:40:39|stratum   B-) Submitted and accepted.
+  m  07:40:40|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A50+0:R0+0:F0]
+  ℹ  07:40:41|CUDA5     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:41|CUDA5       Nonce: 0x456689d413240fef
+  ℹ  07:40:41|stratum   B-) Submitted and accepted.
+  m  07:40:42|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A51+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:40|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:42|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:40:44|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:46|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:48|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:50|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:52|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:54|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:56|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:58|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:00|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:02|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:04|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:06|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  ℹ  07:41:07|stratum   Received new job #818c
+  ℹ  07:41:07|CUDA2     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:07|CUDA2       Nonce: 0xaa01293ef924d0dc
+  ℹ  07:41:07|stratum   B-) Submitted and accepted.
+  m  07:41:08|ethminer  Mining on #b4afffde… : 112.20MH/s [A123+2:R0+0:F0]
+  ℹ  07:41:17|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:17|CUDA0       Nonce: 0x1f747a7038053e3e
+  ℹ  07:41:17|stratum   B-) Submitted and accepted.
+  m  07:41:18|ethminer  Mining on #bd209422… : 111.67MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:20|stratum   Received new job #81a4
+  ℹ  07:41:20|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:20|ethminer  Mining on #b481230c… : 105.74MH/s [A114+1:R0+0:F0]
+  m  07:41:22|ethminer  Mining on #b481230c… : 111.15MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:24|stratum   Received new job #81a5
+  ℹ  07:41:24|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:24|ethminer  Mining on #e7487804… : 105.04MH/s [A114+1:R0+0:F0]
+    ℹ  07:40:23|CUDA1     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:23|CUDA1       Nonce: 0xc8d1b16d1efa13e2
+  ℹ  07:40:23|stratum   B-) Submitted and accepted.
+  m  07:40:24|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:26|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:28|ethminer  Mining on #a1ec8d34… : 111.67MH/s [A49+0:R0+0:F0]
+  m  07:40:30|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:32|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  m  07:40:34|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A49+0:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  ℹ  07:40:39|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:39|CUDA0       Nonce: 0x87eee565e19f324a
+  ℹ  07:40:39|stratum   B-) Submitted and accepted.
+  m  07:40:40|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A50+0:R0+0:F0]
+  ℹ  07:40:41|CUDA5     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:41|CUDA5       Nonce: 0x456689d413240fef
+  ℹ  07:40:41|stratum   B-) Submitted and accepted.
+  m  07:40:42|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A51+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:40|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:42|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:40:44|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:46|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:48|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:50|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:52|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:54|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:56|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:58|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:00|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:02|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:04|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:06|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  ℹ  07:41:07|stratum   Received new job #818c
+  ℹ  07:41:07|CUDA2     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:07|CUDA2       Nonce: 0xaa01293ef924d0dc
+  ℹ  07:41:07|stratum   B-) Submitted and accepted.
+  m  07:41:08|ethminer  Mining on #b4afffde… : 112.20MH/s [A123+2:R0+0:F0]
+  ℹ  07:41:17|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:17|CUDA0       Nonce: 0x1f747a7038053e3e
+  ℹ  07:41:17|stratum   B-) Submitted and accepted.
+  m  07:41:18|ethminer  Mining on #bd209422… : 111.67MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:20|stratum   Received new job #81a4
+  ℹ  07:41:20|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:20|ethminer  Mining on #b481230c… : 105.74MH/s [A114+1:R0+0:F0]
+  m  07:41:22|ethminer  Mining on #b481230c… : 111.15MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:24|stratum   Received new job #81a5
+  ℹ  07:41:24|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:24|ethminer  Mining on #e7487804… : 105.04MH/s [A114+1:R0+0:F0]
+    ℹ  07:40:23|CUDA1     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:23|CUDA1       Nonce: 0xc8d1b16d1efa13e2
+  ℹ  07:40:23|stratum   B-) Submitted and accepted.
+  m  07:40:24|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:26|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:28|ethminer  Mining on #a1ec8d34… : 111.67MH/s [A49+0:R0+0:F0]
+  m  07:40:30|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:32|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  m  07:40:34|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A49+0:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  ℹ  07:40:39|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:39|CUDA0       Nonce: 0x87eee565e19f324a
+  ℹ  07:40:39|stratum   B-) Submitted and accepted.
+  m  07:40:40|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A50+0:R0+0:F0]
+  ℹ  07:40:41|CUDA5     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:41|CUDA5       Nonce: 0x456689d413240fef
+  ℹ  07:40:41|stratum   B-) Submitted and accepted.
+  m  07:40:42|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A51+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:40|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:42|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:40:44|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:46|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:48|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:50|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:52|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:54|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:56|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:58|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:00|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:02|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:04|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:06|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  ℹ  07:41:07|stratum   Received new job #818c
+  ℹ  07:41:07|CUDA2     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:07|CUDA2       Nonce: 0xaa01293ef924d0dc
+  ℹ  07:41:07|stratum   B-) Submitted and accepted.
+  m  07:41:08|ethminer  Mining on #b4afffde… : 112.20MH/s [A123+2:R0+0:F0]
+  ℹ  07:41:17|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:17|CUDA0       Nonce: 0x1f747a7038053e3e
+  ℹ  07:41:17|stratum   B-) Submitted and accepted.
+  m  07:41:18|ethminer  Mining on #bd209422… : 111.67MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:20|stratum   Received new job #81a4
+  ℹ  07:41:20|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:20|ethminer  Mining on #b481230c… : 105.74MH/s [A114+1:R0+0:F0]
+  m  07:41:22|ethminer  Mining on #b481230c… : 111.15MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:24|stratum   Received new job #81a5
+  ℹ  07:41:24|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:24|ethminer  Mining on #e7487804… : 105.04MH/s [A114+1:R0+0:F0]
+    ℹ  07:40:23|CUDA1     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:23|CUDA1       Nonce: 0xc8d1b16d1efa13e2
+  ℹ  07:40:23|stratum   B-) Submitted and accepted.
+  m  07:40:24|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:26|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:28|ethminer  Mining on #a1ec8d34… : 111.67MH/s [A49+0:R0+0:F0]
+  m  07:40:30|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:32|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  m  07:40:34|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A49+0:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  ℹ  07:40:39|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:39|CUDA0       Nonce: 0x87eee565e19f324a
+  ℹ  07:40:39|stratum   B-) Submitted and accepted.
+  m  07:40:40|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A50+0:R0+0:F0]
+  ℹ  07:40:41|CUDA5     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:41|CUDA5       Nonce: 0x456689d413240fef
+  ℹ  07:40:41|stratum   B-) Submitted and accepted.
+  m  07:40:42|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A51+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:40|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:42|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:40:44|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:46|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:48|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:50|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:52|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:54|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:56|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:58|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:00|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:02|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:04|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:06|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  ℹ  07:41:07|stratum   Received new job #818c
+  ℹ  07:41:07|CUDA2     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:07|CUDA2       Nonce: 0xaa01293ef924d0dc
+  ℹ  07:41:07|stratum   B-) Submitted and accepted.
+  m  07:41:08|ethminer  Mining on #b4afffde… : 112.20MH/s [A123+2:R0+0:F0]
+  ℹ  07:41:17|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:17|CUDA0       Nonce: 0x1f747a7038053e3e
+  ℹ  07:41:17|stratum   B-) Submitted and accepted.
+  m  07:41:18|ethminer  Mining on #bd209422… : 111.67MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:20|stratum   Received new job #81a4
+  ℹ  07:41:20|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:20|ethminer  Mining on #b481230c… : 105.74MH/s [A114+1:R0+0:F0]
+  m  07:41:22|ethminer  Mining on #b481230c… : 111.15MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:24|stratum   Received new job #81a5
+  ℹ  07:41:24|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:24|ethminer  Mining on #e7487804… : 105.04MH/s [A114+1:R0+0:F0]
+    ℹ  07:40:23|CUDA1     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:23|CUDA1       Nonce: 0xc8d1b16d1efa13e2
+  ℹ  07:40:23|stratum   B-) Submitted and accepted.
+  m  07:40:24|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:26|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:28|ethminer  Mining on #a1ec8d34… : 111.67MH/s [A49+0:R0+0:F0]
+  m  07:40:30|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:32|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  m  07:40:34|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A49+0:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  ℹ  07:40:39|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:39|CUDA0       Nonce: 0x87eee565e19f324a
+  ℹ  07:40:39|stratum   B-) Submitted and accepted.
+  m  07:40:40|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A50+0:R0+0:F0]
+  ℹ  07:40:41|CUDA5     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:41|CUDA5       Nonce: 0x456689d413240fef
+  ℹ  07:40:41|stratum   B-) Submitted and accepted.
+  m  07:40:42|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A51+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:40|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:42|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:40:44|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:46|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:48|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:50|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:52|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:54|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:56|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:58|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:00|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:02|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:04|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:06|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  ℹ  07:41:07|stratum   Received new job #818c
+  ℹ  07:41:07|CUDA2     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:07|CUDA2       Nonce: 0xaa01293ef924d0dc
+  ℹ  07:41:07|stratum   B-) Submitted and accepted.
+  m  07:41:08|ethminer  Mining on #b4afffde… : 112.20MH/s [A123+2:R0+0:F0]
+  ℹ  07:41:17|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:17|CUDA0       Nonce: 0x1f747a7038053e3e
+  ℹ  07:41:17|stratum   B-) Submitted and accepted.
+  m  07:41:18|ethminer  Mining on #bd209422… : 111.67MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:20|stratum   Received new job #81a4
+  ℹ  07:41:20|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:20|ethminer  Mining on #b481230c… : 105.74MH/s [A114+1:R0+0:F0]
+  m  07:41:22|ethminer  Mining on #b481230c… : 111.15MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:24|stratum   Received new job #81a5
+  ℹ  07:41:24|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:24|ethminer  Mining on #e7487804… : 105.04MH/s [A114+1:R0+0:F0]
+    ℹ  07:40:23|CUDA1     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:23|CUDA1       Nonce: 0xc8d1b16d1efa13e2
+  ℹ  07:40:23|stratum   B-) Submitted and accepted.
+  m  07:40:24|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:26|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:28|ethminer  Mining on #a1ec8d34… : 111.67MH/s [A49+0:R0+0:F0]
+  m  07:40:30|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:32|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  m  07:40:34|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A49+0:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  ℹ  07:40:39|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:39|CUDA0       Nonce: 0x87eee565e19f324a
+  ℹ  07:40:39|stratum   B-) Submitted and accepted.
+  m  07:40:40|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A50+0:R0+0:F0]
+  ℹ  07:40:41|CUDA5     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:41|CUDA5       Nonce: 0x456689d413240fef
+  ℹ  07:40:41|stratum   B-) Submitted and accepted.
+  m  07:40:42|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A51+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:40|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:42|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:40:44|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:46|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:48|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:50|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:52|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:54|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:56|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:58|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:00|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:02|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:04|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:06|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  ℹ  07:41:07|stratum   Received new job #818c
+  ℹ  07:41:07|CUDA2     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:07|CUDA2       Nonce: 0xaa01293ef924d0dc
+  ℹ  07:41:07|stratum   B-) Submitted and accepted.
+  m  07:41:08|ethminer  Mining on #b4afffde… : 112.20MH/s [A123+2:R0+0:F0]
+  ℹ  07:41:17|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:17|CUDA0       Nonce: 0x1f747a7038053e3e
+  ℹ  07:41:17|stratum   B-) Submitted and accepted.
+  m  07:41:18|ethminer  Mining on #bd209422… : 111.67MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:20|stratum   Received new job #81a4
+  ℹ  07:41:20|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:20|ethminer  Mining on #b481230c… : 105.74MH/s [A114+1:R0+0:F0]
+  m  07:41:22|ethminer  Mining on #b481230c… : 111.15MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:24|stratum   Received new job #81a5
+  ℹ  07:41:24|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:24|ethminer  Mining on #e7487804… : 105.04MH/s [A114+1:R0+0:F0]
+    ℹ  07:40:23|CUDA1     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:23|CUDA1       Nonce: 0xc8d1b16d1efa13e2
+  ℹ  07:40:23|stratum   B-) Submitted and accepted.
+  m  07:40:24|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:26|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:28|ethminer  Mining on #a1ec8d34… : 111.67MH/s [A49+0:R0+0:F0]
+  m  07:40:30|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:32|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  m  07:40:34|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A49+0:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  ℹ  07:40:39|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:39|CUDA0       Nonce: 0x87eee565e19f324a
+  ℹ  07:40:39|stratum   B-) Submitted and accepted.
+  m  07:40:40|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A50+0:R0+0:F0]
+  ℹ  07:40:41|CUDA5     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:41|CUDA5       Nonce: 0x456689d413240fef
+  ℹ  07:40:41|stratum   B-) Submitted and accepted.
+  m  07:40:42|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A51+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:40|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:42|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:40:44|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:46|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:48|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:50|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:52|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:54|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:56|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:58|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:00|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:02|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:04|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:06|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  ℹ  07:41:07|stratum   Received new job #818c
+  ℹ  07:41:07|CUDA2     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:07|CUDA2       Nonce: 0xaa01293ef924d0dc
+  ℹ  07:41:07|stratum   B-) Submitted and accepted.
+  m  07:41:08|ethminer  Mining on #b4afffde… : 112.20MH/s [A123+2:R0+0:F0]
+  ℹ  07:41:17|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:17|CUDA0       Nonce: 0x1f747a7038053e3e
+  ℹ  07:41:17|stratum   B-) Submitted and accepted.
+  m  07:41:18|ethminer  Mining on #bd209422… : 111.67MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:20|stratum   Received new job #81a4
+  ℹ  07:41:20|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:20|ethminer  Mining on #b481230c… : 105.74MH/s [A114+1:R0+0:F0]
+  m  07:41:22|ethminer  Mining on #b481230c… : 111.15MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:24|stratum   Received new job #81a5
+  ℹ  07:41:24|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:24|ethminer  Mining on #e7487804… : 105.04MH/s [A114+1:R0+0:F0]
+    ℹ  07:40:23|CUDA1     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:23|CUDA1       Nonce: 0xc8d1b16d1efa13e2
+  ℹ  07:40:23|stratum   B-) Submitted and accepted.
+  m  07:40:24|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:26|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:28|ethminer  Mining on #a1ec8d34… : 111.67MH/s [A49+0:R0+0:F0]
+  m  07:40:30|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:32|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  m  07:40:34|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A49+0:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  ℹ  07:40:39|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:39|CUDA0       Nonce: 0x87eee565e19f324a
+  ℹ  07:40:39|stratum   B-) Submitted and accepted.
+  m  07:40:40|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A50+0:R0+0:F0]
+  ℹ  07:40:41|CUDA5     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:41|CUDA5       Nonce: 0x456689d413240fef
+  ℹ  07:40:41|stratum   B-) Submitted and accepted.
+  m  07:40:42|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A51+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:40|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:42|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:40:44|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:46|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:48|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:50|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:52|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:54|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:56|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:58|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:00|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:02|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:04|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:06|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  ℹ  07:41:07|stratum   Received new job #818c
+  ℹ  07:41:07|CUDA2     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:07|CUDA2       Nonce: 0xaa01293ef924d0dc
+  ℹ  07:41:07|stratum   B-) Submitted and accepted.
+  m  07:41:08|ethminer  Mining on #b4afffde… : 112.20MH/s [A123+2:R0+0:F0]
+  ℹ  07:41:17|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:17|CUDA0       Nonce: 0x1f747a7038053e3e
+  ℹ  07:41:17|stratum   B-) Submitted and accepted.
+  m  07:41:18|ethminer  Mining on #bd209422… : 111.67MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:20|stratum   Received new job #81a4
+  ℹ  07:41:20|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:20|ethminer  Mining on #b481230c… : 105.74MH/s [A114+1:R0+0:F0]
+  m  07:41:22|ethminer  Mining on #b481230c… : 111.15MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:24|stratum   Received new job #81a5
+  ℹ  07:41:24|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:24|ethminer  Mining on #e7487804… : 105.04MH/s [A114+1:R0+0:F0]
+    ℹ  07:40:23|CUDA1     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:23|CUDA1       Nonce: 0xc8d1b16d1efa13e2
+  ℹ  07:40:23|stratum   B-) Submitted and accepted.
+  m  07:40:24|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:26|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:28|ethminer  Mining on #a1ec8d34… : 111.67MH/s [A49+0:R0+0:F0]
+  m  07:40:30|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:32|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  m  07:40:34|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A49+0:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  ℹ  07:40:39|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:39|CUDA0       Nonce: 0x87eee565e19f324a
+  ℹ  07:40:39|stratum   B-) Submitted and accepted.
+  m  07:40:40|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A50+0:R0+0:F0]
+  ℹ  07:40:41|CUDA5     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:41|CUDA5       Nonce: 0x456689d413240fef
+  ℹ  07:40:41|stratum   B-) Submitted and accepted.
+  m  07:40:42|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A51+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:40|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:42|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:40:44|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:46|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:48|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:50|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:52|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:54|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:56|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:58|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:00|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:02|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:04|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:06|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  ℹ  07:41:07|stratum   Received new job #818c
+  ℹ  07:41:07|CUDA2     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:07|CUDA2       Nonce: 0xaa01293ef924d0dc
+  ℹ  07:41:07|stratum   B-) Submitted and accepted.
+  m  07:41:08|ethminer  Mining on #b4afffde… : 112.20MH/s [A123+2:R0+0:F0]
+  ℹ  07:41:17|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:17|CUDA0       Nonce: 0x1f747a7038053e3e
+  ℹ  07:41:17|stratum   B-) Submitted and accepted.
+  m  07:41:18|ethminer  Mining on #bd209422… : 111.67MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:20|stratum   Received new job #81a4
+  ℹ  07:41:20|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:20|ethminer  Mining on #b481230c… : 105.74MH/s [A114+1:R0+0:F0]
+  m  07:41:22|ethminer  Mining on #b481230c… : 111.15MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:24|stratum   Received new job #81a5
+  ℹ  07:41:24|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:24|ethminer  Mining on #e7487804… : 105.04MH/s [A114+1:R0+0:F0]
+    ℹ  07:40:23|CUDA1     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:23|CUDA1       Nonce: 0xc8d1b16d1efa13e2
+  ℹ  07:40:23|stratum   B-) Submitted and accepted.
+  m  07:40:24|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:26|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:28|ethminer  Mining on #a1ec8d34… : 111.67MH/s [A49+0:R0+0:F0]
+  m  07:40:30|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:32|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  m  07:40:34|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A49+0:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  ℹ  07:40:39|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:39|CUDA0       Nonce: 0x87eee565e19f324a
+  ℹ  07:40:39|stratum   B-) Submitted and accepted.
+  m  07:40:40|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A50+0:R0+0:F0]
+  ℹ  07:40:41|CUDA5     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:41|CUDA5       Nonce: 0x456689d413240fef
+  ℹ  07:40:41|stratum   B-) Submitted and accepted.
+  m  07:40:42|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A51+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:40|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:42|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:40:44|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:46|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:48|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:50|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:52|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:54|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:56|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:58|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:00|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:02|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:04|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:06|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  ℹ  07:41:07|stratum   Received new job #818c
+  ℹ  07:41:07|CUDA2     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:07|CUDA2       Nonce: 0xaa01293ef924d0dc
+  ℹ  07:41:07|stratum   B-) Submitted and accepted.
+  m  07:41:08|ethminer  Mining on #b4afffde… : 112.20MH/s [A123+2:R0+0:F0]
+  ℹ  07:41:17|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:17|CUDA0       Nonce: 0x1f747a7038053e3e
+  ℹ  07:41:17|stratum   B-) Submitted and accepted.
+  m  07:41:18|ethminer  Mining on #bd209422… : 111.67MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:20|stratum   Received new job #81a4
+  ℹ  07:41:20|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:20|ethminer  Mining on #b481230c… : 105.74MH/s [A114+1:R0+0:F0]
+  m  07:41:22|ethminer  Mining on #b481230c… : 111.15MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:24|stratum   Received new job #81a5
+  ℹ  07:41:24|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:24|ethminer  Mining on #e7487804… : 105.04MH/s [A114+1:R0+0:F0]
+    ℹ  07:40:23|CUDA1     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:23|CUDA1       Nonce: 0xc8d1b16d1efa13e2
+  ℹ  07:40:23|stratum   B-) Submitted and accepted.
+  m  07:40:24|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:26|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:28|ethminer  Mining on #a1ec8d34… : 111.67MH/s [A49+0:R0+0:F0]
+  m  07:40:30|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:32|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  m  07:40:34|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A49+0:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  ℹ  07:40:39|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:39|CUDA0       Nonce: 0x87eee565e19f324a
+  ℹ  07:40:39|stratum   B-) Submitted and accepted.
+  m  07:40:40|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A50+0:R0+0:F0]
+  ℹ  07:40:41|CUDA5     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:41|CUDA5       Nonce: 0x456689d413240fef
+  ℹ  07:40:41|stratum   B-) Submitted and accepted.
+  m  07:40:42|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A51+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:40|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:42|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:40:44|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:46|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:48|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:50|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:52|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:54|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:56|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:58|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:00|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:02|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:04|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:06|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  ℹ  07:41:07|stratum   Received new job #818c
+  ℹ  07:41:07|CUDA2     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:07|CUDA2       Nonce: 0xaa01293ef924d0dc
+  ℹ  07:41:07|stratum   B-) Submitted and accepted.
+  m  07:41:08|ethminer  Mining on #b4afffde… : 112.20MH/s [A123+2:R0+0:F0]
+  ℹ  07:41:17|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:17|CUDA0       Nonce: 0x1f747a7038053e3e
+  ℹ  07:41:17|stratum   B-) Submitted and accepted.
+  m  07:41:18|ethminer  Mining on #bd209422… : 111.67MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:20|stratum   Received new job #81a4
+  ℹ  07:41:20|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:20|ethminer  Mining on #b481230c… : 105.74MH/s [A114+1:R0+0:F0]
+  m  07:41:22|ethminer  Mining on #b481230c… : 111.15MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:24|stratum   Received new job #81a5
+  ℹ  07:41:24|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:24|ethminer  Mining on #e7487804… : 105.04MH/s [A114+1:R0+0:F0]
+    ℹ  07:40:23|CUDA1     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:23|CUDA1       Nonce: 0xc8d1b16d1efa13e2
+  ℹ  07:40:23|stratum   B-) Submitted and accepted.
+  m  07:40:24|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:26|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:28|ethminer  Mining on #a1ec8d34… : 111.67MH/s [A49+0:R0+0:F0]
+  m  07:40:30|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:32|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  m  07:40:34|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A49+0:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  ℹ  07:40:39|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:39|CUDA0       Nonce: 0x87eee565e19f324a
+  ℹ  07:40:39|stratum   B-) Submitted and accepted.
+  m  07:40:40|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A50+0:R0+0:F0]
+  ℹ  07:40:41|CUDA5     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:41|CUDA5       Nonce: 0x456689d413240fef
+  ℹ  07:40:41|stratum   B-) Submitted and accepted.
+  m  07:40:42|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A51+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:40|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:42|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:40:44|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:46|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:48|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:50|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:52|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:54|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:56|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:58|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:00|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:02|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:04|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:06|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  ℹ  07:41:07|stratum   Received new job #818c
+  ℹ  07:41:07|CUDA2     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:07|CUDA2       Nonce: 0xaa01293ef924d0dc
+  ℹ  07:41:07|stratum   B-) Submitted and accepted.
+  m  07:41:08|ethminer  Mining on #b4afffde… : 112.20MH/s [A123+2:R0+0:F0]
+  ℹ  07:41:17|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:17|CUDA0       Nonce: 0x1f747a7038053e3e
+  ℹ  07:41:17|stratum   B-) Submitted and accepted.
+  m  07:41:18|ethminer  Mining on #bd209422… : 111.67MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:20|stratum   Received new job #81a4
+  ℹ  07:41:20|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:20|ethminer  Mining on #b481230c… : 105.74MH/s [A114+1:R0+0:F0]
+  m  07:41:22|ethminer  Mining on #b481230c… : 111.15MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:24|stratum   Received new job #81a5
+  ℹ  07:41:24|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:24|ethminer  Mining on #e7487804… : 105.04MH/s [A114+1:R0+0:F0]
+    ℹ  07:40:23|CUDA1     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:23|CUDA1       Nonce: 0xc8d1b16d1efa13e2
+  ℹ  07:40:23|stratum   B-) Submitted and accepted.
+  m  07:40:24|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:26|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:28|ethminer  Mining on #a1ec8d34… : 111.67MH/s [A49+0:R0+0:F0]
+  m  07:40:30|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:32|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  m  07:40:34|ethminer  Mining on #a1ec8d34… : 111.15MH/s [A49+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A49+0:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A49+0:R0+0:F0]
+  ℹ  07:40:39|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:39|CUDA0       Nonce: 0x87eee565e19f324a
+  ℹ  07:40:39|stratum   B-) Submitted and accepted.
+  m  07:40:40|ethminer  Mining on #a1ec8d34… : 110.62MH/s [A50+0:R0+0:F0]
+  ℹ  07:40:41|CUDA5     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:40:41|CUDA5       Nonce: 0x456689d413240fef
+  ℹ  07:40:41|stratum   B-) Submitted and accepted.
+  m  07:40:42|ethminer  Mining on #a1ec8d34… : 112.20MH/s [A51+0:R0+0:F0]
+  m  07:40:36|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:38|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:40|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:42|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:40:44|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:46|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:48|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:50|ethminer  Mining on #b4afffde… : 112.20MH/s [A122+2:R0+0:F0]
+  m  07:40:52|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  m  07:40:54|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:56|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:40:58|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:00|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:02|ethminer  Mining on #b4afffde… : 111.15MH/s [A122+2:R0+0:F0]
+  m  07:41:04|ethminer  Mining on #b4afffde… : 111.67MH/s [A122+2:R0+0:F0]
+  m  07:41:06|ethminer  Mining on #b4afffde… : 110.62MH/s [A122+2:R0+0:F0]
+  ℹ  07:41:07|stratum   Received new job #818c
+  ℹ  07:41:07|CUDA2     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:07|CUDA2       Nonce: 0xaa01293ef924d0dc
+  ℹ  07:41:07|stratum   B-) Submitted and accepted.
+  m  07:41:08|ethminer  Mining on #b4afffde… : 112.20MH/s [A123+2:R0+0:F0]
+  ℹ  07:41:17|CUDA0     Solution found; Submitting to europe.ethash-hub.miningpoolhub.com ...
+  ℹ  07:41:17|CUDA0       Nonce: 0x1f747a7038053e3e
+  ℹ  07:41:17|stratum   B-) Submitted and accepted.
+  m  07:41:18|ethminer  Mining on #bd209422… : 111.67MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:20|stratum   Received new job #81a4
+  ℹ  07:41:20|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:20|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:20|ethminer  Mining on #b481230c… : 105.74MH/s [A114+1:R0+0:F0]
+  m  07:41:22|ethminer  Mining on #b481230c… : 111.15MH/s [A114+1:R0+0:F0]
+  ℹ  07:41:24|stratum   Received new job #81a5
+  ℹ  07:41:24|CUDA0     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA1     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA2     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA3     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA4     set work; seed: #0986c6a2, target:  #00000000ffb3
+  ℹ  07:41:24|CUDA5     set work; seed: #0986c6a2, target:  #00000000ffb3
+  m  07:41:24|ethminer  Mining on #e7487804… : 105.04MH/s [A114+1:R0+0:F0]
