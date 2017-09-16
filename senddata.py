@@ -55,7 +55,7 @@ def getuptime():
 
             for f in fiter:
                 if f == 'up':
-                    return = next(fiter) + next(fiter)
+                    return next(fiter) + next(fiter)
 
 
 # main loop
