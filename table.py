@@ -38,7 +38,7 @@ def identity(x):
     return x
 
 def uptimeconvert(x):
-    return '{} days'.format(x)
+    return '{}'.format(x)
 
 def timediffconvert(x):
     return '{} s'.format(int(time.time()) - int(x))
