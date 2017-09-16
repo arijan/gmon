@@ -61,5 +61,6 @@ button:hover, input:hover {
 
 td.simpletable_Graph {
   font-family: serif;
-  transform: scale(0.8,1.5);
+  color: lightgray;
+  #transform: scale(0.8,1.2);
 }

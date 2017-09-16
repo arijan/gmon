@@ -22,6 +22,9 @@ def getipaddress():
         for line in proc.stdout:
             fields = line.decode('utf-8').rstrip().split(' ')
 
+            while fields[0] == '':
+                fields = fields[1:]
+
             if not gotip:
                 if fields[0].strip() == 'inet':
                     ip = fields[1]
@@ -52,7 +55,8 @@ def getuptime():
 
             for f in fiter:
                 if f == 'up':
-                    return next(fiter)
+                    return = next(fiter) + next(fiter)
+
 
 # main loop
 
@@ -62,23 +66,23 @@ print('Monitoring host {} with mac {} and ip {}'.format(hostname, macaddr, ipadd
 print('Uptime {}'.format(getuptime()))
 t2 = t1 = int(time.time())
 
-with subprocess.Popen(['cat', 'testdata.txt'], stdout=subprocess.PIPE) as proc:
+with subprocess.Popen(['./nvmine.sh'], stdout=subprocess.PIPE) as proc:
     for line in proc.stdout:
         fields = line.decode('utf-8').rstrip().split(' ')
 
-        if fields[2] == 'm':
-            hashr = int(float(fields[10].rstrip('MH/s')))
-            t2 = int(time.time())
-            print('dT {}, Hashrate {}, sending:'.format(t2 - t1, hashr), end='')
-            t1 = t2
+        if len(fields) >= 3:
+            if fields[2] == 'm':
+                hashr = int(float(fields[10].rstrip('MH/s')))
+                t2 = int(time.time())
+                print('dT {}, Hashrate {}, sending:'.format(t2 - t1, hashr), end='')
+                t1 = t2
 
-            try:
-                result = requests.post('http://localhost:8081', data=dict(Host=hostname, IP=ipaddr,
+                try:
+                    result = requests.post('http://192.168.88.208:8081', data=dict(Host=hostname, IP=ipaddr,
                                         MAC=macaddr, Uptime=getuptime(), Hashrate=hashr, Temp='',
                                         Lastseen=int(time.time())))
-            except:
-                pass
+                except:
+                    pass
 
-            print(result.reason)
+                print(result.reason)
 
-        time.sleep(5)

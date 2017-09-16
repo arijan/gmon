@@ -16,6 +16,7 @@ import time
 import os
 import subprocess
 import json
+import codecs
 from defaults import *
 
 
@@ -51,7 +52,8 @@ def getgraph(x):
     try:
         with subprocess.Popen(['rrdtool', 'xport', 'DEF:h=' + rrdfile + ':h:AVERAGE', 'XPORT:h', '--end', 'now-60s',
                                '--start', 'now-1860s', '--json'], stdout=subprocess.PIPE) as proc:
-            result = json.load(proc.stdout)
+            reader = codecs.getreader('utf-8')
+            result = json.load(reader(proc.stdout))
 
         vmax = max([x[0] if x[0] else 0 for x in result['data']])
         vmin = min([x[0] if x[0] else vmax for x in result['data']])
