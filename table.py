@@ -63,7 +63,7 @@ def getgraph(x):
             vdiff = 1
 
         rrddata = [x[0] if x[0] else vmin for x in result['data']]
-        retval = ''.join([barchars[round((x - vmin) * barcharslen / vdiff)] for x in rrddata])
+        retval = 'T:{:.0f} B:{:.0f} '.format(vmax, vmin) + ''.join([barchars[round((x - vmin) * barcharslen / vdiff)] for x in rrddata])
     except:
         print(result)
 
