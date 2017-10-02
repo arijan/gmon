@@ -3,7 +3,7 @@
 rrdtool graph out.svg \
 --imgformat SVG \
 --end now \
---start now-7d \
+--start now-14d \
 --lower-limit 0 \
 --grid-dash 1:0 \
 --border 0 \
@@ -31,7 +31,7 @@ rrdtool graph outl.svg \
 --height 200 \
 --imgformat SVG \
 --end now \
---start now-7d \
+--start now-14d \
 --lower-limit 0 \
 --grid-dash 1:0 \
 --border 0 \

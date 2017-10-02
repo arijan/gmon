@@ -41,7 +41,12 @@ def uptimeconvert(x):
     return '{}'.format(x)
 
 def timediffconvert(x):
-    return '{} s'.format(int(time.time()) - int(x))
+    try:
+        ix = int(x)
+    except: ValueError
+        ix = int(time.time())
+
+    return '{} s'.format(int(time.time()) - ix)
 
 def getgraph(x):
     # get rrd data
